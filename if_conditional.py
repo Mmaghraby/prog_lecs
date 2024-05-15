@@ -1,4 +1,3 @@
-print('i want shawarma')
 # 1. Basic if Statement
 x = 10
 if (x > 5):
